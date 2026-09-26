@@ -64,5 +64,5 @@ Taiwan-based. Chinese (native) / Japanese (JLPT N1) / English (TOEIC 770).
 
 
 ## リンク
-
+- [ポートフォリオ（PDF）](https://github.com/ray23883588/ray23883588/blob/main/SuChunChia_Portfolio.pdf)
 - [Wantedly](https://www.wantedly.com/id/chun_su)
