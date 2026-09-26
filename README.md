@@ -1,16 +1,68 @@
-## Hi there 👋
+# Chun-Chia, Su（蘇 俊嘉）
 
-<!--
-**ray23883588/ray23883588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MIS M.Sc. | Web & App Developer | Seeking SWE roles in Japan (Apr 2027 new-grad)**
+Taiwan-based. Chinese (native) / Japanese (JLPT N1) / English (TOEIC 770).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 自己紹介
+
+台湾出身のソフトウェアエンジニア志望です。情報管理（MIS）で学士・修士を取得し、
+学部ではモバイルアプリ開発、修士では深層学習を用いたネットワーク信頼性の研究に取り組みました。
+
+日本語は独学で N1 を取得し、京都での 1 年間の交換留学を経験しています。
+2027 年 4 月入社（27卒）で、日本での Web / アプリエンジニア職を希望しています。
+
+「言語も技術も、わからないものをわかるようにする」プロセスが好きです。
+
+## 技術スタック
+
+| 分野 | 技術 |
+|------|------|
+| フロントエンド | JavaScript, React Native |
+| バックエンド | Python, FastAPI |
+| インフラ / BaaS | Firebase |
+| 機械学習 | PyTorch, pandas |
+
+
+## プロジェクト
+
+### MOBI — 模擬仮想通貨投資プラットフォーム
+
+台湾のユーザー向けに設計した、仮想通貨投資のシミュレーションアプリです。
+実際の資金を使わずに投資を体験・学習できることを目的としています。
+
+- **技術**：React Native / Firebase / FastAPI
+- **体制**：チーム開発、**フロントエンド担当**
+- **所属**：輔仁大学 情報管理学科 第38期 卒業制作
+  **期間**：2021 年 9 月 – 2022 年 11 月（コンテスト出展を含む）
+- **受賞**：InnoServe 2022（台湾の大学生向け情報サービス開発コンテスト）IP2 部門 第 3 位
+
+→ [リポジトリ](https://github.com/ray23883588/mobi-crypto-simulator)
+
+### 修士研究 — 深層学習による確率的フローネットワークの信頼性予測
+
+確率的フローネットワーク（Stochastic Flow Network）において、
+従来はトポロジーが変わるたびに経路の再探索と再計算が必要でした。
+本研究では、モンテカルロシミュレーション（MCS）とランダムトポロジー生成を組み合わせて
+学習データを自動生成し、DNN による信頼性の直接予測を実現しました。
+
+- **担当**：トポロジーデータの前処理、および MCS と DNN の間のデータ連携層
+  （両手法のデータ形式・スケールの差異を吸収する変換処理）の設計・実装
+- **成果**：10 ノード（12〜21 アーク）のネットワークで 1,000 件のテストを実施し、
+  MCS の 158.48 秒に対して DNN の推論は 0.222 秒。**約 713 倍の高速化**を達成
+- **技術**：PyTorch, pandas, マルチスレッド処理
+
+> 指導教員が論文の投稿準備中のため、ソースコードは非公開としています。
+> 詳細については面談等でご説明可能です。
+
+## 語学
+
+- **日本語**：JLPT N1（独学）／京都での交換留学 1 年
+- **英語**：TOEIC 770
+- **台湾華語（中国語）**：母語
+
+
+## リンク
+
+- [Wantedly](https://www.wantedly.com/id/chun_su)
